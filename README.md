@@ -25,41 +25,41 @@
 
 1.  克隆或下载本项目到本地。
 
-2.  进入 `announcement` 目录，通过 `pip` 安装所需的依赖库：
+2.  进入 `sse-announcements-scraper` 目录，通过 `pip` 安装所需的依赖库：
     ```bash
     pip install -r requirements.txt
     ```
 
 ## 使用方法
 
-在终端中，确保**位于`announcement`目录的上一级目录**，然后执行 `ann.py` 脚本。
+在终端中，确保**位于`sse-announcements-scraper`目录的上一级目录**，然后执行 `ann.py` 脚本。
 
 ### 1. 使用默认参数运行
 
 查询默认股票（600036），时间范围为最近三年：
 ```bash
-python3 announcement/ann.py
+python3 sse-announcements-scraper/ann.py
 ```
 
 ### 2. 指定查询目标
 
 查询贵州茅台（600519）在2013年至2023全年的公告：
 ```bash
-python3 announcement/ann.py 600519 --start 2013-01-01 --end 2023-12-31
+python3 sse-announcements-scraper/ann.py 600519 --start 2013-01-01 --end 2023-12-31
 ```
 
 ### 3. 按关键字筛选公告
 
 查询贵州茅台（600519），在最近三年内标题包含“股东大会”的公告：
 ```bash
-python3 announcement/ann.py 600519 --title 股东大会
+python3 sse-announcements-scraper/ann.py 600519 --title 股东大会
 ```
 
 ### 4. 自定义输出文件夹
 
 查询默认股票，并将结果保存在 `downloads/招商银行_2024半年报` 文件夹中：
 ```bash
-python3 announcement/ann.py 600036 --start 2024-01-01 --end 2024-08-26 --output 招商银行_2024半年报
+python3 sse-announcements-scraper/ann.py 600036 --start 2024-01-01 --end 2024-08-26 --output 招商银行_2024半年报
 ```
 
 ### 参数说明
