@@ -1,0 +1,51 @@
+日期Date	指数代码 Index Code	指数名称 Index Name	指数英文名称Index Name(Eng)	成份券代码Constituent Code	成份券名称Constituent Name	成份券英文名称Constituent Name(Eng)
+20250901	000016	上证50	SSE 50	600028	中国石化	China Petroleum & Chemical Corporation
+20250901	000016	上证50	SSE 50	600030	中信证券	CITIC Securities Co Ltd
+20250901	000016	上证50	SSE 50	600031	三一重工	Sany Heavy Industry Co Ltd
+20250901	000016	上证50	SSE 50	600036	招商银行	China Merchants Bank Co Ltd
+20250901	000016	上证50	SSE 50	600048	保利发展	Poly Developments and Holdings Group Co., Ltd.
+20250901	000016	上证50	SSE 50	600050	中国联通	China United Network Communications Co Ltd
+20250901	000016	上证50	SSE 50	600150	中国船舶	China CSSC Holdings Limited
+20250901	000016	上证50	SSE 50	600276	恒瑞医药	Jiangsu Hengrui Medicine Co Ltd
+20250901	000016	上证50	SSE 50	600309	万华化学	Wanhua Chemical Group Co., Ltd.
+20250901	000016	上证50	SSE 50	600406	国电南瑞	NARI Technology Co., Ltd.
+20250901	000016	上证50	SSE 50	600519	贵州茅台	Kweichow Moutai Co Ltd
+20250901	000016	上证50	SSE 50	600690	海尔智家	Haier Smart Home Co., Ltd.
+20250901	000016	上证50	SSE 50	600760	中航沈飞	AVIC SHENYANG AIRCRAFT COMPANY LIMITED
+20250901	000016	上证50	SSE 50	600809	山西汾酒	Shanxi Xinghuacun Fen Wine Factory Co Ltd
+20250901	000016	上证50	SSE 50	600887	伊利股份	Inner Mongolia Yili Industrial Group Co Ltd
+20250901	000016	上证50	SSE 50	600900	长江电力	China Yangtze Power Co Ltd
+20250901	000016	上证50	SSE 50	600941	中国移动	China Mobile Limited
+20250901	000016	上证50	SSE 50	601012	隆基绿能	Longi Green Energy Technology Co., Ltd.
+20250901	000016	上证50	SSE 50	601088	中国神华	China Shenhua Energy Co Ltd
+20250901	000016	上证50	SSE 50	601127	赛力斯	Chongqing Sokon Industry Group Stock Co., Ltd.
+20250901	000016	上证50	SSE 50	601166	兴业银行	Industrial Bank
+20250901	000016	上证50	SSE 50	601211	国泰海通	GUOTAI HAITONG SECURITIES CO., LTD.
+20250901	000016	上证50	SSE 50	601225	陕西煤业	Shaanxi Coal Industry Company Limited
+20250901	000016	上证50	SSE 50	601288	农业银行	Agricultural Bank of China Co Ltd
+20250901	000016	上证50	SSE 50	601318	中国平安	Ping An Insurance (Group) Company of China Ltd
+20250901	000016	上证50	SSE 50	601328	交通银行	Bank of Communications Co LTD
+20250901	000016	上证50	SSE 50	601398	工商银行	Industrial and Commercial Bank of China Ltd
+20250901	000016	上证50	SSE 50	601600	中国铝业	Aluminum Corporation of China Limited
+20250901	000016	上证50	SSE 50	601601	中国太保	China Pacific Insurance (Group) Co Ltd
+20250901	000016	上证50	SSE 50	601628	中国人寿	China Life Insurance Company Limited
+20250901	000016	上证50	SSE 50	601658	邮储银行	POSTAL SAVINGS BANK OF CHINA CO., LTD.
+20250901	000016	上证50	SSE 50	601668	中国建筑	China State Construction Engineering Co Ltd
+20250901	000016	上证50	SSE 50	601728	中国电信	China Telecom Corporation Limited
+20250901	000016	上证50	SSE 50	601766	中国中车	CRRC Corporation Limited
+20250901	000016	上证50	SSE 50	601816	京沪高铁	Beijing-Shanghai High Speed Railway Co.,Ltd
+20250901	000016	上证50	SSE 50	601857	中国石油	PetroChina Co Ltd
+20250901	000016	上证50	SSE 50	601888	中国中免	China Tourism Group Duty Free Corporation Limited
+20250901	000016	上证50	SSE 50	601899	紫金矿业	Zijin Mining Group Co Ltd
+20250901	000016	上证50	SSE 50	601919	中远海控	COSCO SHIPPING Holdings Co., Ltd.
+20250901	000016	上证50	SSE 50	601985	中国核电	China National Nuclear Power Co.,Ltd.
+20250901	000016	上证50	SSE 50	601988	中国银行	Bank of China Ltd
+20250901	000016	上证50	SSE 50	603259	药明康德	WuXi AppTec Co., Ltd.
+20250901	000016	上证50	SSE 50	603501	豪威集团	Omni Vision Integrated Circuits Group, Inc.
+20250901	000016	上证50	SSE 50	603993	洛阳钼业	China Molybdenum Co., Ltd.
+20250901	000016	上证50	SSE 50	688008	澜起科技	Montage Technology Co., Ltd.
+20250901	000016	上证50	SSE 50	688012	中微公司	Advanced Micro-Fabrication Equipment Inc. China
+20250901	000016	上证50	SSE 50	688041	海光信息	Hygon Information Technology Co., Ltd.
+20250901	000016	上证50	SSE 50	688111	金山办公	Beijing Kingsoft Office Software, Inc.
+20250901	000016	上证50	SSE 50	688256	寒武纪	Cambricon Technologies Corporation Limited
+20250901	000016	上证50	SSE 50	688981	中芯国际	Semiconductor Manufacturing International Corporation
