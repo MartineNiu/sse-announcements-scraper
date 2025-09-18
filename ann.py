@@ -35,6 +35,7 @@ def generate_yearly_date_ranges(start_date_str, end_date_str):
     start_date = datetime.strptime(start_date_str, "%Y-%m-%d")
     end_date = datetime.strptime(end_date_str, "%Y-%m-%d")
     
+    
     ranges = []
     current_start = start_date
     
